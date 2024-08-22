@@ -2,6 +2,6 @@ numpy
 pandas
 openai
 streamlit
-sqlalchemy==2.0.19
+sqlalchemy
 distutils
 python3-distutils
