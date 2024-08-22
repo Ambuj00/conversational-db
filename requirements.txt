@@ -1,5 +1,5 @@
+numpy==1.25.0
 pandas==2.0.3
-sqlalchemy
 openai==0.27.0
-streamlit
-numpy
+streamlit==1.23.1
+sqlalchemy==2.0.19
