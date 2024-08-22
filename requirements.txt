@@ -3,3 +3,4 @@ pandas==2.0.3
 openai==0.27.0
 streamlit==1.23.1
 sqlalchemy==2.0.19
+distutils
